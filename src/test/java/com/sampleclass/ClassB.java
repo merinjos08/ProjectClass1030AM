@@ -11,5 +11,10 @@ public class ClassB {
 		System.out.println("SEL");
 
 	}
+	
+	private void python() {
+		System.out.println("PHY");
+
+	}
 
 }
